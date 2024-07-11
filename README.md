@@ -1,4 +1,4 @@
-# Manual Craft Training
+# Manual Writing Training
 
 Comprehensive manual writing training program for young adults (18-25), focusing on digital tools and collaborative workflows.
 
@@ -16,16 +16,18 @@ Comprehensive manual writing training program for young adults (18-25), focusing
 ## 始め方
 
 1. このリポジトリをクローンします：
+
+   ```bash
+   git clone https://github.com/kanjiz/manual-writing-training.git
    ```
-   git clone https://github.com/kanjiz/manual-craft-training.git
-   ```
+
 2. `docs/` ディレクトリ内のガイドラインとリソースを参照してください。
 3. [CONTRIBUTING.md](./CONTRIBUTING.md) を確認し、プロジェクトへの貢献方法を理解してください。
 
 ## プロジェクト構造
 
-```
-manual-craft-training/
+```plaintext
+manual-writing-training/
 │
 ├── .editorconfig
 ├── .gitignore
@@ -61,4 +63,4 @@ manual-craft-training/
 
 ## 連絡先
 
-質問や提案がある場合は、[Issueを作成](https://github.com/kanjiz/manual-craft-training/issues)してお問い合わせください。
+質問や提案がある場合は、[Issueを作成](https://github.com/kanjiz/manual-writing-training/issues)してお問い合わせください。
