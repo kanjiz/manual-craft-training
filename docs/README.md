@@ -6,30 +6,36 @@
 
 1. [manual-writing-training-program-design-guidelines.md](./manual-writing-training-program-design-guidelines.md)
 
-   マニュアル作成訓練プログラムの全体的な設計に関するガイドラインです。プログラムの目的、カリキュラム設計の基本方針、使用ツール、評価方法などが含まれています。
+   マニュアル作成訓練プログラムの全体的な設計に関するガイドラインです。プログラムの目的、カリキュラム設計の基本方針、評価方法などが含まれています。
 
-2. [manual-writing-training-program-implementation-guidelines.md](./manual-writing-training-program-implementation-guidelines.md)
+2. [manual-writing-training-material-development-guidelines.md](./manual-writing-training-material-development-guidelines.md)
 
-   訓練プログラムを実際に実施する際のガイドラインです。指導方法、スケジュール管理、受講者とのコミュニケーション方法などの実践的な指針が含まれています。
+   教材開発に関するガイドラインです。教材の基本方針、構成、使用ツール、倫理的配慮などについて記載されています。
 
-3. [manual-writing-training-trainee-guidelines.md](./manual-writing-training-trainee-guidelines.md)
+3. [manual-writing-training-program-implementation-guidelines.md](./manual-writing-training-program-implementation-guidelines.md)
 
-   訓練プログラムの受講者向けガイドラインです。マニュアル作成の基本原則、推奨される作業フロー、品質基準などが記載されています。
+   プログラムの実施に関するガイドラインです。現在は内容が未定で、今後開発される予定です。
 
-4. [manual-writing-training-roles-and-instructions.md](./manual-writing-training-roles-and-instructions.md)
+4. [manual-writing-training-trainee-guidelines.md](./manual-writing-training-trainee-guidelines.md)
 
-   このファイルは、プロジェクト管理者とAIアシスタントの対話のためのプロンプトです。プロジェクトの背景情報やAIアシスタントの役割を定義しており、効果的な協力を促進するために使用されます。このドキュメントは、プログラムの設計、実施、評価の全過程においてAIアシスタントを活用する際の指針となります。
+   訓練プログラムの受講者向けガイドラインです。現在は内容が未定で、今後開発される予定です。
+
+5. [manual-writing-training-roles-and-instructions.md](./manual-writing-training-roles-and-instructions.md)
+
+   このファイルは、プロジェクト管理者とAIアシスタントの対話のためのプロンプトです。プロジェクトの背景情報やAIアシスタントの役割を定義しており、効果的な協力を促進するために使用されます。
 
 ## 使用方法
 
 1. プログラムの設計者は、まず `manual-writing-training-program-design-guidelines.md` を参照して、プログラムの全体的な構造と方針を理解してください。
 
-2. プログラムの実施者は、`manual-writing-training-program-implementation-guidelines.md` を熟読し、効果的な訓練の実施方法を把握してください。
+2. 教材開発者は、`manual-writing-training-material-development-guidelines.md` を参照して、教材作成の指針を確認してください。
 
-3. 訓練の受講者には、`manual-writing-training-trainee-guidelines.md` を提供し、マニュアル作成の基準と期待される成果を明確に伝えてください。
+3. プログラムの実施者は、`manual-writing-training-program-implementation-guidelines.md` を参照してください（内容は今後開発予定）。
 
-4. `manual-writing-training-roles-and-instructions.md` は、プロジェクト管理者がAIアシスタントとの対話を効果的に行い、プログラムの各段階でAIの支援を最大限に活用するために使用します。
+4. 訓練の受講者には、`manual-writing-training-trainee-guidelines.md` を提供してください（内容は今後開発予定）。
+
+5. `manual-writing-training-roles-and-instructions.md` は、プロジェクト管理者がAIアシスタントとの対話を効果的に行うために使用します。
 
 これらのドキュメントは、プログラムの進行に合わせて定期的に見直し、必要に応じて更新してください。ドキュメントの更新や改善の提案がある場合は、プロジェクトのガイドラインに従って貢献してください。
 
-このディレクトリ内のドキュメントを効果的に活用することで、一貫性のある高品質なマニュアル作成訓練プログラムを実現することができます。
+注意: 実施ガイドラインと受講者向けガイドラインは現在開発中です。これらのドキュメントの完成は、プログラムの詳細が固まり次第行われる予定です。
