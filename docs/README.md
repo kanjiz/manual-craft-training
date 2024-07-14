@@ -6,11 +6,11 @@
 
 1. [manual-writing-training-program-design-guidelines.md](./manual-writing-training-program-design-guidelines.md)
 
-   マニュアル作成訓練プログラムの全体的な設計に関するガイドラインです。プログラムの目的、カリキュラム設計の基本方針、評価方法などが含まれています。
+   マニュアル作成訓練プログラムの全体的な設計に関するガイドラインです。プログラムの目的、カリキュラム設計の基本方針、学習環境、指導と評価方法、プログラムの評価と改善、柔軟性と適応に関する指針が含まれています。
 
 2. [manual-writing-training-material-development-guidelines.md](./manual-writing-training-material-development-guidelines.md)
 
-   教材開発に関するガイドラインです。教材の基本方針、構成、使用ツール、倫理的配慮などについて記載されています。
+   教材開発に関するガイドラインです。教材の基本方針、種類と構成、開発プロセス、内容の設計指針、技術的考慮事項、評価と改善の仕組み、具体的な例とテンプレート、開発者向けリソースと支援、開発者の裁量と創造性の尊重、フィードバックと改善提案のメカニズムについて詳細に記載されています。
 
 3. [manual-writing-training-program-implementation-guidelines.md](./manual-writing-training-program-implementation-guidelines.md)
 
@@ -28,7 +28,7 @@
 
 1. プログラムの設計者は、まず `manual-writing-training-program-design-guidelines.md` を参照して、プログラムの全体的な構造と方針を理解してください。
 
-2. 教材開発者は、`manual-writing-training-material-development-guidelines.md` を参照して、教材作成の指針を確認してください。
+2. 教材開発者は、`manual-writing-training-material-development-guidelines.md` を参照して、教材作成の指針を確認してください。このガイドラインは、教材開発者の創造性と裁量を尊重しつつ、効果的な教材開発のための枠組みを提供します。
 
 3. プログラムの実施者は、`manual-writing-training-program-implementation-guidelines.md` を参照してください（内容は今後開発予定）。
 
